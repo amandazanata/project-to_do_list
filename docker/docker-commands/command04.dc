@@ -1,1 +1,1 @@
-docker attach 01container
+docker container exec 01container cat /etc/os-release
